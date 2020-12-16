@@ -17,6 +17,9 @@
     @include respond(phone) {
         -webkit-clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
         clip-path: polygon(0 0, 100% 0, 100% 85vh, 0 100%);
+        .heading-primary--main {
+            font-size: 5rem;
+        }
     }
     &__logo-box {
         position: absolute;
