@@ -6,7 +6,7 @@ I'll use:
  - SASS
  - JS For Webp support 
  
- visit: https://mohtareq.github.io/Natours/
+ visit: https://moh-natours.netlify.app
  
  # 1st step 10/12/2020
   - Compress img and add webp format
