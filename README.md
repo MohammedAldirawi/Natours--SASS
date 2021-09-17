@@ -1,4 +1,4 @@
-# Natours Project
+# Natours
 
 I'll use: 
  - HTML
