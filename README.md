@@ -8,7 +8,7 @@ I'll use:
  
  visit: https://moh-natours.netlify.app
  
- # 1st step 10/12/2020
+ # 1st step
   - Compress img and add webp format
   - Compress video and add webm format
   - Add first tags in HTML includes: 
