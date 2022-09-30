@@ -20,23 +20,23 @@ I'll use:
   - Write root color for style.css
   - Write Modernzier for webp support in script.js 
 
- # 2nd step 11/12/2020
+ # 2nd step
   - Write Header HTML tags.
   - Clip path the background.
   - Animate Heading and button with CSS only.
 
- # 3rd step 11/12/2020
+ # 3rd step
   - Install Node Sass Package.
   - Ignore Node_module, and package from being uploaded to git hub in .gitignore. 
   - Add nodemon to watch sass while saving.
 
- # 4th step 13/12/2020
+ # 4th step
   - Create required sass folders and files
   - Convert Previuos CSS to SASS code.
   - Build About section.
   - Build Features section.
   
- # 5th step 14/12/2020
+ # 5th step
   - Build Tours section.
   - Build Stories section.
   - Build Booking section.
@@ -44,7 +44,7 @@ I'll use:
   - Build Navigation section.
   - Build Popup with pure css.
 
- # 6th step 15/12/2020
+ # 6th step
   - Compile Sass to css.
   - Add Autoprefix.
   - Auto Minify. 
