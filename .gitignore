@@ -1,11 +1,10 @@
-/css
-/img
-/js
-/node_modules
-/sass
-/video
-/gitignore
-/index.html
-/package.json
-/package-lock.json
+./css
+./img
+./js
+./node_modules
+./sass
+./video
+./index.html
+./package.json
+./package-lock.json
 
