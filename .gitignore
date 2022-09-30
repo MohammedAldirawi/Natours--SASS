@@ -1,10 +1,12 @@
-./css
-./img
-./js
-./node_modules
-./sass
-./video
-./index.html
-./package.json
-./package-lock.json
+*.log
+
+css/
+img/
+js/
+node_modules/
+sass/
+video/
+index.html/
+package.json/
+package-lock.json/
 
