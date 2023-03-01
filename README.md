@@ -6,7 +6,7 @@ I'll use:
  - SASS
  - JS For Webp support 
  
- visit: (https://natours-mo.netlify.app/)
+ visit: (https://natouurs.netlify.app/)
  
  # 1st step
   - Compress img and add webp format
