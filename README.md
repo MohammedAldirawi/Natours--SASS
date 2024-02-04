@@ -1,4 +1,4 @@
-# Natours
+# Natours: Platform to explore tourism with a nice animation.
 
 I'll use: 
  - HTML
@@ -11,7 +11,7 @@ I'll use:
  # 1st step
   - Compress img and add webp format
   - Compress video and add webm format
-  - Add first tags in HTML includes: 
+  - Add first tags in HTML including: 
     - Initial display
     - Fonts
     - Style
@@ -22,13 +22,13 @@ I'll use:
 
  # 2nd step
   - Write Header HTML tags.
-  - Clip path the background.
+  - Clip path in the background.
   - Animate Heading and button with CSS only.
 
  # 3rd step
   - Install Node Sass Package.
-  - Ignore Node_module, and package from being uploaded to git hub in .gitignore. 
-  - Add nodemon to watch sass while saving.
+  - Ignore Node_module, and package from being uploaded to Git Hub in .gitignore. 
+  - Add nodemon to watch Sass while saving.
 
  # 4th step
   - Create required sass folders and files
@@ -39,13 +39,13 @@ I'll use:
  # 5th step
   - Build Tours section.
   - Build Stories section.
-  - Build Booking section.
-  - Build Footer section.
-  - Build Navigation section.
-  - Build Popup with pure css.
+  - Build a Booking section.
+  - Build a Footer section.
+  - Build a Navigation section.
+  - Build a Popup with pure CSS.
 
  # 6th step
-  - Compile Sass to css.
+  - Compile Sass to CSS.
   - Add Autoprefix.
   - Auto Minify. 
   - Remove package.json from .gitignore to show what I did in package.json.
