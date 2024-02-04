@@ -1,4 +1,4 @@
-# Natours: Platform to explore tourism with a nice animation.
+# Natours: Platform To Explore Tourism With a Nice Animations.
 
 I'll use: 
  - HTML
